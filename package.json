@@ -1,0 +1,14 @@
+{
+  "name": "@cxj-npm/atom-flex",
+  "version": "1.0.0",
+  "description": "flex atomized class name collection",
+  "main": "none",
+  "scripts": {},
+  "keywords": [
+    "css",
+    "atom",
+    "flex"
+  ],
+  "author": "",
+  "license": "ISC"
+}
