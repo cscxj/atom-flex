@@ -1,10 +1,10 @@
 {
   "name": "@cxj-npm/atom-flex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "flex atomized class name collection",
   "main": "none",
   "scripts": {
-    "prerelase": "npm version prerelease -m \"release: %s\" && npm publish --access public"
+    "version:prerelase": "npm version prerelease -m \"release: %s\" && npm publish --access public"
   },
   "keywords": [
     "css",
