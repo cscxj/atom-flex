@@ -4,7 +4,8 @@
   "description": "flex atomized class name collection",
   "main": "none",
   "scripts": {
-    "version:prerelase": "npm version prerelease -m \"release: %s\" && npm publish --access public"
+    "version:prerelase": "npm version prerelease -m \"release: %s\" && npm publish --access public",
+    "version:minor": "npm version minor -m \"release: %s\" && npm publish --access public"
   },
   "keywords": [
     "css",
