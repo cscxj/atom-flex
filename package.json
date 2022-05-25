@@ -1,6 +1,6 @@
 {
   "name": "@cxj-npm/atom-flex",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "flex atomized class name collection",
   "main": "none",
   "scripts": {
